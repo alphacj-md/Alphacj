@@ -2,15 +2,16 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+𝐃𝐄𝐕𝐂𝐉𝐀𝐘" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://files.catbox.moe/cj840r.jpg" alt="𝐀𝐋𝐏𝐇𝐀𝐂𝐉 𝐌𝐃" height="300"> 
+    <img src="https://files.catbox.moe/vqb7qx.jpg" alt="JUNE MD" height="300"> 
   </a> 
 </div>
+
 
 ---
 1. 𝐅𝐎𝐑𝐊 𝐀𝐋𝐏𝐇𝐀𝐂𝐉 𝐌𝐃

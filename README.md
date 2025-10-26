@@ -23,7 +23,7 @@
 
 2. 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐙𝐈𝐏 𝐅𝐈𝐋𝐄  
 <p align="center">
-    <a href="https://github.com/alphacj-md/Alphacj/archive/refs/heads/main" target="_blank">
+    <a href="https://codeload.github.com/alphacj-md/Alphacj/zip/refs/heads/main" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/ALPHACJ MD FILE%20 FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
     </a>
 </p>

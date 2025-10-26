@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://files.catbox.moe/vqb7qx.jpg" alt="𝐀𝐋𝐏𝐇𝐀𝐂𝐉 𝐌𝐃" height="300"> 
+    <img src="https://files.catbox.moe/cj840r.jpg" alt="𝐀𝐋𝐏𝐇𝐀𝐂𝐉 𝐌𝐃" height="300"> 
   </a> 
 </div>
 

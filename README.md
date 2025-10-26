@@ -16,7 +16,7 @@
 ---
 1. 𝐅𝐎𝐑𝐊 𝐀𝐋𝐏𝐇𝐀𝐂𝐉 𝐌𝐃
 <div align="center">
-  <a href="https://github.com/vinpink2/June-md/fork">
+  <a href="1https://github.com/alphacj-md/Alphacj/fork">
     <img src="https://img.shields.io/badge/Fork%20Alphacj %20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
   </a>
 </div>
